@@ -9,6 +9,8 @@ tags:
   - Acquired
 apis: []
 common:
+  - type: LinkedIn
+    url: https://www.linkedin.com/company/general-growth-properties
   - type: Parent Company
     url: https://bpy.brookfield.com
   - type: Brookfield Properties
