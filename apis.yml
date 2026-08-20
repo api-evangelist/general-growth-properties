@@ -16,6 +16,12 @@ name: General Growth Properties
 url: https://raw.githubusercontent.com/api-evangelist/general-growth-properties/refs/heads/main/apis.yml
 modified: '2026-04-28'
 tags:
+  - Real-Estate
+  - Retail
+  - Shopping Malls
+  - Acquired
+  - Fortune 1000
+tags_raw:
   - Real Estate
   - Retail
   - Shopping Malls
