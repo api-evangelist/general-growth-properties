@@ -1,7 +1,9 @@
 ---
 title: General Growth Properties 2026 Company Profile
 url: https://pitchbook.com/profiles/company/25169-05
-date: '2026-05-25'
+published: ''
+date_basis: harvested
+harvested: '2026-05-25'
 query: '"General Growth Properties" press release artificial intelligence'
 position: 3
 source: serpapi-google

@@ -1,7 +1,9 @@
 ---
 title: General Growth Return On Asset vs Price To Earnings To Growth
 url: https://www.macroaxis.com/profitability/GGP/Return-On-Asset/Price-To-Earnings-To-Growth
-date: '2026-05-25'
+published: ''
+date_basis: harvested
+harvested: '2026-05-25'
 query: '"General Growth Properties" press release artificial intelligence'
 position: 4
 source: serpapi-google

@@ -1,7 +1,9 @@
 ---
 title: 'General Growth Properties: To The Brink and Back | PDF'
 url: https://www.scribd.com/document/273359037/General-Growth-Properties-To-the-Brink-and-Back
-date: '2026-05-25'
+published: ''
+date_basis: harvested
+harvested: '2026-05-25'
 query: '"General Growth Properties" press release artificial intelligence'
 position: 2
 source: serpapi-google
