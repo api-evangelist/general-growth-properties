@@ -1,4 +1,4 @@
-# General Growth Properties (general-growth-properties)
+# General Growth Properties
 
 <!-- API-EVANGELIST-PROVENANCE:BEGIN -->
 > ### About this repository
@@ -64,39 +64,28 @@
 > Full detail: **[Where this data comes from](https://apievangelist.com/about/where-our-data-comes-from)**
 <!-- API-EVANGELIST-PROVENANCE:END -->
 
-General Growth Properties (GGP) was a major U.S.-based commercial real estate company and the second-largest shopping mall operator in the United States before being acquired by Brookfield Property Partners in 2018. The GGP portfolio is now operated under Brookfield Properties.
+General Growth Properties (GGP) was a major U.S.-based commercial real estate company and the second-largest shopping mall operator in the United States before being acquired by Brookfield Property Partners in 2018. The GGP portfolio is now operated under Brookfield Properties. No public developer APIs are documented for the legacy GGP entity.
 
-**URL:** [APIs.yml](https://raw.githubusercontent.com/api-evangelist/general-growth-properties/refs/heads/main/apis.yml)
+**Areas:** Real Estate · Retail · Shopping Malls · Acquired · Fortune 1000
 
-## Scope
+## General Growth Properties on APIs.io
 
-- **Type:** Contract
-- **Position:** Consuming
-- **Access:** 3rd-Party
+Everything profiled for General Growth Properties is published on APIs.io rather than in this repository. Start at the provider page — **[apis.io/providers/general-growth-properties/](https://apis.io/providers/general-growth-properties/)** — or go straight to one of the APIs or properties below.
 
-## Tags
+## API Evangelist rating
 
-- Real Estate
-- Retail
-- Shopping Malls
-- Acquired
+**Unrated** — no public website could be reached for this company, so there was almost nothing to measure and nothing a reader could check.
 
-## Timestamps
+This is not a score of zero. No rating is published for this company. If that is wrong because something public exists that we missed, say so on this repository or email [info@apievangelist.com](mailto:info@apievangelist.com) and it will be re-run — free, and no justification needed.
 
-- **Created:** 2026-03-24
-- **Modified:** 2026-04-28
+## How this profile is made
 
-## APIs
+API Evangelist profiles a company's public API surface the way a developer would find it: the website, developer portal and documentation, the specifications it publishes, its public repositories, and its pricing, status and changelog pages. From that it derives the properties above — contracts split per API, workflows, schemas, collections, governance rules, plans and rate limits — and scores them against the published [Kin Score rubric](https://github.com/api-evangelist/kin-score).
 
-No public developer APIs are documented for the legacy GGP entity. The portfolio is now managed under Brookfield Properties.
+The artifacts are published on [APIs.io](https://apis.io), not in this repository. This repository is the public record for General Growth Properties: the place to say something is wrong, missing or out of date, and to ask for a re-score or a removal.
 
-## Common Properties
+## Open an issue
 
-- [Brookfield Property Partners](https://bpy.brookfield.com)
-- [Brookfield Properties](https://www.brookfieldproperties.com)
-
-## Maintainers
-
-**FN:** API Evangelist
-
-**Email:** info@apievangelist.com
+- **Something about this listing** — a wrong description, a missing API, a stale artifact or a question about the rating: [open an issue on this repository](https://github.com/api-evangelist/general-growth-properties/issues/new).
+- **A new API, or one that is not in the catalog yet** — [submit it on APIs.io](https://apis.io/add/).
+- **Anything else** — [the APIs.io inbox](https://github.com/api-search/inbox/issues/new) or [info@apievangelist.com](mailto:info@apievangelist.com).
